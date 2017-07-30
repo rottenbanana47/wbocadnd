@@ -1,0 +1,64 @@
+body {
+  text-align: center;
+  background-color: steelblue;
+}
+
+nav {
+background-color: black;
+color: red;
+border-color: black;
+border-width: thick;
+border-style: groove;
+border-radius: 10px;
+}
+
+#imgdnd {
+  width: 600px;
+}
+
+img {
+  border-color: black;
+  border-width: thick;
+  border-style: groove;
+  border-radius: 10px;
+}
+h1 {
+  font-size: 350%
+    font-family: 'Merriweather', serif;
+}
+
+}
+#homenav{
+  font-size: 200%
+}
+#aboutus h1{
+  font-size: 400%
+}
+#imgdandd{
+width: 500px;
+}
+#contact h1{
+  font-size: 400%
+}
+#imggroup{
+  width: 650px;
+}
+p {
+  font-family: 'Oswald', sans-serif;
+  font-weight: 500;
+  letter-spacing: 2px;
+  margin-bottom: 20px;
+  margin-top: 0;
+  text-transform: uppercase;
+}
+navbuttons{
+  color: lightsteelblue
+}
+.navbuttons{
+  background-color: black;
+  color: white;
+}
+a {
+  background-color: steelblue;
+  color: black;
+}
